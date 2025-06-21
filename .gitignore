@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Data files
+data/
+*.tif
+*.zip
+*.shp
+*.dbf
+*.shx
+*.prj
